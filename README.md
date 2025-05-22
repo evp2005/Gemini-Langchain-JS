@@ -18,7 +18,7 @@ Este repositorio te permite analizar imágenes utilizando inteligencia artificia
 Ejecuta el siguiente comando en la terminal para instalar las dependencias necesarias:
 
 ```sh
-npm install
+npm install 
 ```
 
 ---
@@ -38,7 +38,7 @@ export GOOGLE_APPLICATION_CREDENTIALS="ruta/a/tu/credentials.json"
 Para iniciar el proyecto, ejecuta el siguiente comando:
 
 ```sh
-node index.js
+node langchain_gemini.js
 ```
 
 ---
