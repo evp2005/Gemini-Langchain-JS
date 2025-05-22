@@ -47,5 +47,5 @@ node langchain_gemini.js
 
 Para más detalles sobre cómo utilizar LangChain y Gemini, consulta la documentación oficial:
 
-- [LangChain Documentation](https://langchain.com/docs)
+- [LangChain Documentation](https://js.langchain.com/docs/introduction/)
 - [Gemini Documentation](https://cloud.google.com/vertex-ai/docs/guides/gemini)
